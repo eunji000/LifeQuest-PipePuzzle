@@ -1,17 +1,15 @@
-# LIFE QUST - Pipe Puzzle
+# Laboratory Escape - Pipe Puzzle
 
-## 프로젝트 소개
-연구실 탈출 게임 내에 포함된 파이프 퍼즐 시스템입니다.
+기간 : 2026.03 ~ 2026.05
 
 ## 담당 역할
-- Pipe Puzzle 구현
-- 파이프 회전 시스템 구현
-- 정답 판정 로직 구현
+- Pipe Puzzle 시스템 구현
+- 파이프 회전 및 정답 판정 로직 구현
+- 미로 미니게임 아이템 배치
 
-## 개발 환경
+## 사용 기술
 - Unity
 - C#
-- Visual Studio
 
 ## 주요 기능
 - 클릭 시 90도 회전
